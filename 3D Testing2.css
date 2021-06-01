@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    background-color: cadetblue;
+    border-radius: 25%;
+    border: 3px solid lightgreen;
+    margin: auto;
+    top: 300px;
+    box-shadow: 10px 10px 4px grey;
+
+}
+
+button {
+    position: relative;
+    background-color: lightgrey;
+    left: 645px;
+    top: 190px;
+    margin: auto;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 25%;
+    height: 40px;
+    width: 50px;
+    box-shadow: 2px 2px 1px indianred;
+}
